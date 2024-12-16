@@ -1,7 +1,7 @@
-<div align="center"> <img src="https://github.com/Tks-Devops/python-zero-to-hero/blob/main/png-clipart-cartoon-python-cartoon-python.png"> </div>
+<div align="center"> <img src="https://github.com/Tks-Devops/python-zero-to-hero/blob/main/1.jpg"> </div>
+<img align="right" alt="Coding" width="400" src="illustration.png">
 
-
-# Devops-funda
+# python funda
 
 This is my 1st repo of Devops
 #list in python
@@ -202,3 +202,10 @@ print(grade.count("a"))#4
 grade = ["c","d","a","a","a","b","b","a"]
 grade.sort()#sort is used for uniformally given the result
 print(grade)#['a', 'a', 'a', 'a', 'b', 'b', 'c', 'd']
+<p align="center">
+  <img src="https://svgtext.herokuapp.com/?text=Thank%20you%20for%20visiting%20my%20profile!&font_size=40&color=%23FF9800&outline_color=%23000000" alt="Thank you for visiting my profile!" />
+</p>
+<p align="center">
+  <img src="https://svgtext.herokuapp.com/?text=Feel%20free%20to%20reach%20out%20for%20DevOps-related%20queries!&font_size=40&color=%234CAF50&outline_color=%23000000" alt="Feel free to reach out for DevOps-related queries!" />
+</p>
+
