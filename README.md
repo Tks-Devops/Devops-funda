@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://github.com/Tks-Devops/python-zero-to-hero/blob/main/1.jpg"> </div>
+<div align="center"> <img src="https://github.com/Tks-Devops/python-zero-to-hero/blob/main/Blue And Yellow Modern Cybersecurity Specialist LinkedIn Banner.png"> </div>
 <img align="right" alt="Coding" width="400" src="python.jpg">
 
 # python funda
