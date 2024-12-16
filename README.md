@@ -1,3 +1,6 @@
+<div align="center"> <img src="https://github.com/Tks-Devops/python-zero-to-hero/blob/main/png-clipart-cartoon-python-cartoon-python.png"> </div>
+
+
 # Devops-funda
 
 This is my 1st repo of Devops
