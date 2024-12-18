@@ -77,3 +77,24 @@ Conclusion
 Python is a powerful tool for automating and managing various aspects of DevOps workflows. From automating server checks to managing configurations and handling deployments, the concepts covered in this course will significantly improve your efficiency in the DevOps role. Keep practicing, and soon you’ll be able to write complex automation scripts with ease!
 
 If you’re serious about a career in DevOps, the key to success lies in continuous learning 📚 and practical experience 💡. Build, automate, and scale your way to becoming an expert in this dynamic field! 🚀
+<h1 align="center" >Have an idea? Let's connect:</h1>
+
+<div align="center" gap="20px">
+<a href="https://www.linkedin.com/in/tulasikumarsahu/">
+<img width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://hashnode.com/@CloudCraft-with-TK">
+<img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=hashnoad&logoColor=white" />
+</a>
+
+<a href="https://github.com/Tks-Devops">
+<img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=github&logoColor=white" />
+</a>
+</div>
+
+<div align="center" gap="20px">
+<a href="https://www.youtube.com/@DevOpsAlchemy">
+<img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=youtube&logoColor=white" />
+</a>
+</div>
